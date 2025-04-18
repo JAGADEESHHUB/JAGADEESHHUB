@@ -7,6 +7,17 @@
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGADEESHHUB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h4 align="left">TECH STACK</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
@@ -26,8 +37,16 @@
 
 ###
 
+<h4 align="left">SOCIAL LINKS</h4>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<h4 align="left">ACHIEVEMENTS<br><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</h4>
 
 ###
