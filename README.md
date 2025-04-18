@@ -52,3 +52,5 @@
 <h4 align="left">ACHIEVEMENTS<br><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</h4>
 
 ###
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JAGAJAVA?theme=radical&font=Roboto&ext=heatmap)
