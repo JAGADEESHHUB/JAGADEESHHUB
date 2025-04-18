@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">ABOUT ME<br><br>Passionate Java Spring Boot Developer, and proficient in Java with a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms (DSA). Specialized in backend development using Java Spring Boot to build robust, scalable APIs. Experienced in developing and deploying web applications with a focus on writing clean, maintainable, and high-performance code.</h4>
+<p align="left">ABOUT ME<br><br>Passionate Java Spring Boot Developer, and proficient in Java with a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms (DSA). Specialized in backend development using Java Spring Boot to build robust, scalable APIs. Experienced in developing and deploying web applications with a focus on writing clean, maintainable, and high-performance code.</p>
 
 ###
 
@@ -47,6 +47,6 @@
 
 ###
 
-<h4 align="left">ACHIEVEMENTS<br><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</h4>
+<p align="left">ACHIEVEMENTS<br><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</p>
 
 ###
