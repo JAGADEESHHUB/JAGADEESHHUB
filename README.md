@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">ABOUT ME<br><br>Passionate Java Spring Boot Developer, and proficient in Java with a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms (DSA). Specialized in backend development using Java Spring Boot to build robust, scalable APIs. Experienced in developing and deploying web applications with a focus on writing clean, maintainable, and high-performance code.</p>
+<h4 align="left">ABOUT ME</h4><br>Passionate Java Spring Boot Developer, and proficient in Java with a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms (DSA). Specialized in backend development using Java Spring Boot to build robust, scalable APIs. Experienced in developing and deploying web applications with a focus on writing clean, maintainable, and high-performance code.</p>
 
 ###
 
@@ -14,8 +14,6 @@
 ###
 
 <h4 align="left">TECH STACK</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
@@ -39,14 +37,12 @@
 
 <h4 align="left">SOCIAL LINKS</h4>
 
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<p align="left">ACHIEVEMENTS<br><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</p>
+<h4 align="left">ACHIVEMENTS</h4><br>Top 5% Java Certification Exam. Recognized for outstanding performance and proficiency in Java programming by securing a position in the top 5% of all participants in the National Programme on Technology Enhanced Learning certification exam (IITM certified).<br><br>Solved 100+ Leetcode problems</p>
 
 ###
